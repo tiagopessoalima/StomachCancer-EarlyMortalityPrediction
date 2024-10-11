@@ -1,0 +1,28 @@
+Features,Fitness
+[],0.0
+['TUG'],0.1994
+['Platelet'],0.3594
+"['GDS-SF', 'MNA-SF', 'Advanced Staging']",0.5481
+"['Age', 'CCI', 'GDS-SF', 'IPAQ-SF', 'MNA-SF', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Leukocyte', 'Advanced Staging']",0.5038
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KATZ', 'MMSE']",0.4956
+"['Age', 'Gender', 'IPAQ-SF', 'KPS', 'MMSE', 'MNA-SF', 'TUG', 'Platelet', 'Creatinine', 'Advanced Staging']",0.5738
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KATZ', 'KPS', 'MNA-SF', 'Polypharmacy', 'Hemoglobin', 'Platelet', 'Creatinine', 'Advanced Staging']",0.5119
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KATZ', 'KPS', 'MMSE', 'MNA-SF', 'Polypharmacy', 'Hemoglobin', 'Leukocyte', 'Platelet', 'Creatinine', 'Advanced Staging']",0.5006
+"['Age', 'CCI', 'Polypharmacy']",0.2881
+"['IPAQ-SF', 'MNA-SF', 'Advanced Staging']",0.6181
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KPS', 'MMSE', 'MNA-SF', 'Polypharmacy', 'TUG', 'Platelet', 'Creatinine', 'Advanced Staging']",0.5719
+"['Gender', 'GDS-SF', 'MNA-SF', 'Advanced Staging']",0.5375
+"['Age', 'Gender', 'CCI', 'IPAQ-SF', 'KATZ', 'KPS', 'MMSE', 'MNA-SF', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Leukocyte', 'Platelet', 'Creatinine']",0.5012
+"['Age', 'Gender', 'CCI', 'IPAQ-SF', 'KPS', 'MMSE', 'MNA-SF', 'Polypharmacy', 'Hemoglobin', 'Leukocyte', 'Platelet', 'Creatinine', 'Advanced Staging']",0.5019
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KPS', 'MMSE', 'MNA-SF', 'TUG', 'Platelet', 'Creatinine', 'Advanced Staging']",0.5724999999999999
+"['GDS-SF', 'Polypharmacy', 'Advanced Staging']",0.4981
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KPS', 'MMSE', 'TUG', 'Platelet', 'Creatinine', 'Advanced Staging']",0.5531
+"['Gender', 'KPS', 'Advanced Staging']",0.5681
+"['Age', 'CCI', 'GDS-SF', 'IPAQ-SF', 'MNA-SF', 'TUG', 'Hemoglobin', 'Leukocyte', 'Advanced Staging']",0.5044
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KATZ', 'MNA-SF', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Leukocyte', 'Platelet', 'Creatinine']",0.4919
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KATZ', 'KPS', 'MMSE', 'MNA-SF', 'Polypharmacy', 'TUG', 'Platelet', 'Creatinine', 'Advanced Staging']",0.5711999999999999
+"['KPS', 'Advanced Staging']",0.5888
+"['IPAQ-SF', 'MMSE', 'TUG', 'Advanced Staging']",0.5774999999999999
+"['Gender', 'IPAQ-SF', 'MNA-SF', 'Advanced Staging']",0.6174999999999999
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KATZ', 'KPS', 'MMSE', 'MNA-SF', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Platelet', 'Creatinine', 'Advanced Staging']",0.5106
+"['MNA-SF', 'Advanced Staging']",0.5688000000000001

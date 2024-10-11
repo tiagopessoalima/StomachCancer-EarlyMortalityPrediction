@@ -1,0 +1,17 @@
+Features,Fitness
+[],0.0
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KATZ', 'KPS', 'MNA-SF', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Platelet', 'Creatinine']",0.5519000000000001
+"['Age', 'Gender', 'GDS-SF', 'KATZ', 'KPS', 'MNA-SF', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Platelet', 'Creatinine', 'Advanced Staging']",0.6024999999999999
+"['Gender', 'KATZ', 'KPS', 'MNA-SF', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Leukocyte', 'Advanced Staging']",0.6444
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KATZ', 'KPS', 'MMSE', 'MNA-SF', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Leukocyte', 'Platelet', 'Creatinine', 'Advanced Staging']",0.64
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KATZ', 'KPS', 'MMSE', 'MNA-SF', 'Polypharmacy', 'TUG', 'Leukocyte', 'Platelet', 'Creatinine', 'Advanced Staging']",0.5706
+"['CCI', 'IPAQ-SF', 'KPS', 'MNA-SF', 'TUG', 'Hemoglobin', 'Leukocyte', 'Creatinine']",0.625
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KATZ', 'KPS', 'MMSE', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Leukocyte', 'Platelet', 'Creatinine', 'Advanced Staging']",0.6206
+"['Age', 'Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KATZ', 'KPS', 'Polypharmacy', 'TUG', 'Leukocyte', 'Creatinine', 'Advanced Staging']",0.5724999999999999
+"['Gender', 'CCI', 'GDS-SF', 'IPAQ-SF', 'KATZ', 'KPS', 'Leukocyte', 'Platelet', 'Creatinine']",0.5444
+"['Age', 'Gender', 'CCI', 'IPAQ-SF', 'KATZ', 'KPS', 'MMSE', 'MNA-SF', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Leukocyte', 'Platelet', 'Creatinine', 'Advanced Staging']",0.6606000000000001
+"['Gender', 'KPS', 'TUG', 'Hemoglobin', 'Platelet', 'Advanced Staging']",0.6262
+"['Gender', 'IPAQ-SF', 'KPS', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Leukocyte', 'Advanced Staging']",0.665
+"['Gender', 'KPS', 'MMSE', 'Hemoglobin', 'Platelet', 'Creatinine', 'Advanced Staging']",0.6056
+"['Age', 'Gender', 'IPAQ-SF', 'KATZ', 'KPS', 'MNA-SF', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Leukocyte', 'Advanced Staging']",0.6431
+"['Age', 'Gender', 'CCI', 'IPAQ-SF', 'KATZ', 'KPS', 'MNA-SF', 'Polypharmacy', 'TUG', 'Hemoglobin', 'Leukocyte', 'Advanced Staging']",0.6325
