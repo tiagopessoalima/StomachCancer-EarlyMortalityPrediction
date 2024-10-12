@@ -1,4 +1,4 @@
-# Predictive Factors for Early Mortality in Older Adults with Stomach Cancer
+# Stomach Cancer Early Mortality Prediction
 
 This repository contains the code and data for a **prospective study** focused on predicting early mortality in older adults with **stomach cancer**. By leveraging **baseline laboratory tests** and the **Comprehensive Geriatric Assessment (CGA)**, this project aims to improve risk stratification and assist in clinical decision-making using **machine learning models**.
 
