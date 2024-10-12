@@ -52,13 +52,12 @@ To replicate the results or use the code, follow these steps:
 ## 📚 Technologies
 
 - **Python 3.8+**
-- **Pandas & NumPy & Pandas** for data manipulation
+- **NumPy & Pandas** for data manipulation
 - **Scikit-learn** for model training
 - **Matplotlib & Seaborn** for data visualization
 - **Jupyter Notebooks** for experiments and analysis
 
 ## 🔍 Try it out
 
-
-<img src="qrCodeHuggingFace.png" alt="QR Code HuggingFace" width="500"/>
+<img src="qrCodeHuggingFace.png" alt="QR Code HuggingFace" width="250"/>
 
